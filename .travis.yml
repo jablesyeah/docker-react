@@ -18,6 +18,6 @@ deploy:
   on:
     branch: main
   access_key_id: $AWS_ACCESS_KEY
-  secret_ACCESS_KEY: "$AWS_SECRET_KEY"
+  secret_access_key: "$AWS_SECRET_KEY"
 
 # docker-course.eba-mm932r4f.eu-west-2.elasticbeanstalk.com
